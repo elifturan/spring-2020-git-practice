@@ -4,4 +4,3 @@ blue
 pink
 brown
 orange
-yellow
