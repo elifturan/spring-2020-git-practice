@@ -1,4 +1,10 @@
 red
 pink
 green
+<<<<<<< HEAD
 
+=======
+black
+blue
+yellow
+>>>>>>> 4275029b72e05989168ef2efbe9531ae7e85e550
