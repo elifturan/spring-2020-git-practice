@@ -1,3 +1,7 @@
 white
 red
 blue
+pink
+brown
+orange
+yellow
