@@ -1,3 +1,6 @@
 red
 pink
 green
+black
+blue
+yellow
